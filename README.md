@@ -1,4 +1,4 @@
-# custom-playback-channel
+# Mini player channel
 SceneGraph Roku SDK2 example of how to display video with a playlist of content
 
 ## Use Cases
